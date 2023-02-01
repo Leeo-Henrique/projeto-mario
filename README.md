@@ -4,11 +4,11 @@
 
 Uma aplicação simples de java script replicada em react com algumas animações com a intenção de promover o novo filme do mario
 
+![PROJETO-MARIO-IMAGE](https://github.com/Leeo-Henrique/projeto-mario/blob/main/src/assets/ExampleProject.png?raw=true)
+
 <div align="center" valign="top"><br>
 
   <h1 align="center" font-size="13px"> Tecnologias usadas:</h1><br>
-  
-  
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -17,11 +17,10 @@ Uma aplicação simples de java script replicada em react com algumas animaçõe
   
 </div><br>
 
-![PROJETO-MARIO-IMAGE](https://github.com/Leeo-Henrique/projeto-mario/blob/main/src/assets/ExampleProject.png?raw=true)
 
 ## Como rodar a aplicação
 
-## `WEB - LocalHost`
+`WEB - LocalHost`
 
 ## `Abra o terminal`:
 
