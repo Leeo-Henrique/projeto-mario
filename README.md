@@ -2,10 +2,8 @@
 
 [Link Aplicação](https://projeto-mario-omega.vercel.app/)
 
-
-<div>
 Uma aplicação simples de java script replicada em react com algumas animações com a intenção de promover o novo filme do mario
-</div>
+
 ![PREVIEW](https://github.com/Leeo-Henrique/projeto-mario/blob/main/src/assets/ExampleProject.png?raw=true)
 
 <div align="center" valign="top"><br>
