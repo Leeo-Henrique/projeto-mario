@@ -31,7 +31,7 @@ Espere instalar todas dependencias...
 
 depois rode o comando `yarn start`
 
-e a pagina web vai abrir
+e a pagina web vai abrir <br>
 [Creditos](https://www.youtube.com/@DevemDobro)
 
 [Criador](https://github.com/Leeo-Henrique)
