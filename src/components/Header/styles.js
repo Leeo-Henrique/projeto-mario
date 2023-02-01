@@ -22,7 +22,7 @@ export const HeaderStyled = styled.header`
     border-radius: 50px;
     transition: 0.2s;
   }
-  a:hover {
+  nav ul li a:hover {
     background-color: #d5011d;
   }
   @media (max-width: 500px) {
