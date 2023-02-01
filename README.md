@@ -1,4 +1,6 @@
-# Projeto-Mario
+## Projeto-Mario
+
+[Link Aplicação](https://projeto-mario-omega.vercel.app/)
 
 Uma aplicação simples de java script replicada em react com algumas animações com a intenção de promover o novo filme do mario
 
@@ -30,3 +32,6 @@ Espere instalar todas dependencias...
 depois rode o comando `yarn start`
 
 e a pagina web vai abrir
+[Creditos](https://www.youtube.com/@DevemDobro)
+
+[Criador](https://github.com/Leeo-Henrique)
