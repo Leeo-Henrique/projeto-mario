@@ -10,7 +10,7 @@ Uma aplicação simples de java script replicada em react com algumas animaçõe
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <h1>💅</h1>
+  <h1 align="center">💅</h1>
   
   
 </div><br>
