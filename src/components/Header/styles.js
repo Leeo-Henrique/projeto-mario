@@ -6,8 +6,9 @@ export const HeaderStyled = styled.header`
   justify-content: space-between;
   padding: 30px;
   max-width: 1440px;
-  a img {
+  img {
     width: 65px;
+    cursor: pointer;
   }
   nav ul {
     display: flex;
