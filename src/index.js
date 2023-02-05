@@ -5,11 +5,12 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "animate.css";
 const element = document.getElementById("root");
+const body = document.querySelector("html");
 
-element.style.background = "#000";
+body.style.backgroundColor = "#000";
 
 setTimeout(() => {
-  element.style.background = "none";
+  body.style.backgroundColor = "none";
 }, 1500);
 
 const root = ReactDOM.createRoot(element);
